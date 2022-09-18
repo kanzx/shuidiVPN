@@ -3,7 +3,6 @@
 基于 [Lightsocks](https://github.com/gwuhaolin/lightsocks) 实现一个简单的 HTTP加密隧道，代理服务。
 
 ```json
-	// 配置文件
 	{
 		"server": ":8888",
 		"client": ":1080",
