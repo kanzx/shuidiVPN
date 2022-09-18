@@ -3,11 +3,11 @@
 基于 [Lightsocks](https://github.com/gwuhaolin/lightsocks) 实现一个简单的 HTTP加密隧道，代理服务。
 
 ```json
-	{
-		"server": ":8888",
-		"client": ":1080",
-		"password": ""
-	}
+{
+	"server": ":8888",
+	"client": ":1080",
+	"password": ""
+}
 ```
 
 ```go build 编译好 Server端 和 Client端```
